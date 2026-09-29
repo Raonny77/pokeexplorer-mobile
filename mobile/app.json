@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "PokeExplorer",
+    "slug": "pokeexplorer",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": { "backgroundColor": "#1a1a2e" },
+    "android": { "package": "com.raonny.pokeexplorer" },
+    "ios": { "bundleIdentifier": "com.raonny.pokeexplorer" }
+  }
+}

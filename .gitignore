@@ -1,0 +1,18 @@
+# dependências
+node_modules/
+
+# build
+dist/
+.expo/
+web-build/
+
+# variáveis de ambiente / segredos
+.env
+.env.*
+
+# sistema / editor
+.DS_Store
+Thumbs.db
+*.log
+.vscode/*
+!.vscode/extensions.json
